@@ -9,14 +9,14 @@ const exp = [
     cardImage: "assets/images/experience-page/techplement_logo.jpeg",
     place: "TECHPLEMENT",
     time: "(Jun'24 - Jul'24)",
-    desp: "<li>Worked with APIs and HTTP requests using AXIOS to fetch the information.</li> <li> - HTML, CSS, Java Script, React, Node js.</li> ",
+    desp: "<li>Worked with APIs and HTTP requests using AXIOS to fetch the information.</li> <li> - HTML, CSS, Java Script, React, Node js.</li> <li>Gained professional experience of working with latest technogies and Finding optimal solutions for problems.</li> ",
   },
   {
     title: "Java Fullstack Trainee",
     cardImage: "assets/images/experience-page/cipherschool_logo.jpeg",
     place: "CipherSchool",
     time: "(Jan'23 - Feb'23)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Worked on java and Springboot and created a scalable and responsive applications.</li><li>Worked in a team and improved application loading speed by 25%.</li><li>Learned to use diffrent data structures and algorithms to optimise the applications",
   },
 ];
 
