@@ -5,66 +5,66 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
+    title: "Web Development Bootcamp",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://www.udemy.com/certificate/UC-70182190-0912-4c67-9e19-10c8cec910f6/",
+  },
+  {
+    title: "Data Visualization with Tableau",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    moocLink: "https://www.coursera.org/account/accomplishments/specialization/HT4G4XR3ECR3",
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
-  },
-  {
-    title: "Machine Learning",
+    title: "IBM Machine Learning",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    moocLink: "https://coursera.org/verify/profession al-cert/SMYRWCCC3C45",
+  },
+  { 
+    title: "Create Charts and Dashboards Using Microsoft Excel",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://coursera.org/verify/T7DH62P3XW45",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
-  },
-  {
-    title: "Bootstrap 4",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
-  },
-  {
-    title: "Intro to React",
+    title: "IBM Cloud Essentials",
     cardImage: "assets/images/education-page/edx.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
+    moocLink: "https://courses.edx.org/certificates/d9e84dc4b0dc4a71b8a6122e660555f7",
   },
   {
-    title: "Intro to React Native",
+    title: "R Programming",
     cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://www.coursera.org/account/accomplishments/verify/L25L7TJGJYY6",
+  },
+  {
+    title: "Introduction to Big Data",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://coursera.org/verify/H2PY7SLC7TAN",
+  },
+  {
+    title: "DSA Self paced",
+    cardImage: "assets/images/education-page/icons8-geeksforgeeks.svg",
+    moocLink: "https://media.geeksforgeeks.org/courses/certificates/864182dc09f3c7bca89403a7aad58c7b.pdf",
+  },
+  {
+    title: "Database Management System",
+    cardImage: "assets/images/education-page/infosys-1.svg",
     moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+      "https://drive.google.com/file/d/186ua27qSJT3Ww8T562LLNB15sBaTugTZ/view?usp=sharing",
   },
   {
-    title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
+    title: "FullStack Developer Intern",
+    cardImage: "assets/images/education-page/Techplement.png",
+    moocLink: "https://drive.google.com/file/d/15rE4jE5uhww9G4a2eRfRf7K_VjJImtf3/view",
   },
   {
-    title: "XML-AJAX",
+    title: "VMware vSphere 7.0 BootCamp",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
+    moocLink: "https://www.udemy.com/certificate/UC-d40a9f30-6665-43db-ac4e-b58024cff8bb/",
   },
   {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
+    title: "Java FullStack",
+    cardImage: "assets/images/education-page/ciper.png",
     moocLink:
-      "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+      "https://drive.google.com/file/d/1aopCXMYJXIh_w5r_93ZqDLM5Dm3vUQxv/view",
   },
 ];
 
