@@ -38,7 +38,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Flmily Travel Tracker",
+    title: "Family Travel Tracker",
     cardImage: "assets/images/project-page/TravelTracker.png",
     description: "Recipe Ingredient Parser built using JavaScript.",
     tagimg:
@@ -55,7 +55,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Blog Site",
+    title: "The Idea Nest - Blog Site",
     cardImage: "assets/images/project-page/Blog-Site.png",
     description:
       "Tested a React Tic Tac Toe Game using Jest and React Testing Library.",
